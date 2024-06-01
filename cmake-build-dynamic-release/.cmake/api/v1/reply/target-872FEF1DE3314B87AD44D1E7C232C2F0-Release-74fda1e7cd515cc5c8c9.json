@@ -1,0 +1,343 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "872FEF1DE3314B87AD44D1E7C232C2F0.dll"
+		},
+		{
+			"path" : "872FEF1DE3314B87AD44D1E7C232C2F0.lib"
+		},
+		{
+			"path" : "872FEF1DE3314B87AD44D1E7C232C2F0.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"Eco.CalculatorE/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 89,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/nologo /W3 /WX- /Oy- /EHsc /GS /fp:precise /Zc:wchar_t /Zc:forScope /Gz /TC /analyze- /errorReport:queue /Zi /O2 /Oi /Gm- /MT /Gy -MD"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "ECO_DLL"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "ECO_WIN32"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "ECO_WINDOWS"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "NDEBUG"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "UGUID_UTILITY"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "WIN32"
+				},
+				{
+					"define" : "_872FEF1DE3314B87AD44D1E7C232C2F0_EXPORTS"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_WINDLL"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_WINDOWS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "C:/EcoLab/Eco.Lab1/HeaderFiles"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/EcoLab/Eco.Lab1/SharedFiles"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorA/SharedFiles"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorB/SharedFiles"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorC/SharedFiles"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorD/SharedFiles"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorE/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.List1/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.Core1/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.InterfaceBus1/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.System1/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.MemoryManager1/SharedFiles"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/EcoLab/Eco.Framework/Eco.FileSystemManagement1/SharedFiles"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorE/HeaderFiles"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/EcoLab/Eco.Lab1/Eco.CalculatorE/../Eco.CalculatorB/SharedFiles"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "90"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"id" : "872FEF1DE3314B87AD44D1E7C232C2F0::@32b9b103cb10a5ed0eab",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/NOLOGO /DLL /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /ERRORREPORT:QUEUE /OPT:REF /OPT:ICF /LTCG /INCREMENTAL:NO",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "872FEF1DE3314B87AD44D1E7C232C2F0",
+	"nameOnDisk" : "872FEF1DE3314B87AD44D1E7C232C2F0.dll",
+	"paths" : 
+	{
+		"build" : "Eco.CalculatorE",
+		"source" : "Eco.CalculatorE"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 15,
+			"compileGroupIndex" : 0,
+			"path" : "Eco.CalculatorE/SourceFiles/CEcoCalculatorE.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 15,
+			"compileGroupIndex" : 0,
+			"path" : "Eco.CalculatorE/SourceFiles/CEcoCalculatorEFactory.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 15,
+			"path" : "Eco.CalculatorE/SharedFiles/IdEcoCalculatorE.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"path" : "Eco.CalculatorE/SharedFiles/IEcoCalculatorY.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"path" : "Eco.CalculatorE/HeaderFiles/CEcoCalculatorE.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"path" : "Eco.CalculatorE/HeaderFiles/CEcoCalculatorEFactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"path" : "Eco.CalculatorB/SharedFiles/IdEcoCalculatorB.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

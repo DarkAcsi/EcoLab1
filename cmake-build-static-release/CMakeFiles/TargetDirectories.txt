@@ -1,0 +1,16 @@
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/CMakeFiles/Eco_Lab2.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/CMakeFiles/edit_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/CMakeFiles/rebuild_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorC/CMakeFiles/edit_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorC/CMakeFiles/rebuild_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorB/CMakeFiles/AE202E543CE54550899603BD70C62565.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorB/CMakeFiles/edit_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorB/CMakeFiles/rebuild_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorD/CMakeFiles/3A8E44677E82475CB4A3719ED8397E61.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorD/CMakeFiles/edit_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorD/CMakeFiles/rebuild_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorE/CMakeFiles/872FEF1DE3314B87AD44D1E7C232C2F0.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorE/CMakeFiles/edit_cache.dir
+C:/EcoLab/Eco.Lab1/cmake-build-static-release/Eco.CalculatorE/CMakeFiles/rebuild_cache.dir

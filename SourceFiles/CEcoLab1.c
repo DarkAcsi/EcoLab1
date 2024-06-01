@@ -21,6 +21,19 @@
 #include "IEcoInterfaceBus1.h"
 #include "IEcoInterfaceBus1MemExt.h"
 #include "CEcoLab1.h"
+#include "IEcoCalculatorX.h"
+#include "IEcoCalculatorY.h"
+
+
+// Lab2
+
+IEcoCalculatorXVTbl* m_pVTblIEcoCalculatorX;
+IEcoCalculatorYVTbl* m_pVTblIEcoCalculatorY;
+IEcoCalculatorX* m_pIEcoCalculatorX;
+IEcoCalculatorY* m_pIEcoCalculatorY;
+IEcoUnknown* m_pInnerUnknown;
+
+
 
 /*
  *
@@ -33,6 +46,7 @@
  * </описание>
  *
  */
+
 int16_t ECOCALLMETHOD CEcoLab1_QueryInterface(/* in */ struct IEcoLab1* me, /* in */ const UGUID* riid, /* out */ void** ppv) {
     CEcoLab1* pCMe = (CEcoLab1*)me;
 
@@ -244,7 +258,6 @@ double* ECOCALLMETHOD MergeSort8(CEcoLab1* pCMe, void* base, int pos, int end,
 
 void* ECOCALLMETHOD CEcoLab1_MergeSort(struct IEcoLab1* me, void *base, size_t size, int n, int (__cdecl *compare) (const void *, const void *)){
     CEcoLab1* pCMe = (CEcoLab1*)me;
-    int i = 0;
 	if (size == 1){
 		base = MergeSort1(pCMe, base, 0, n, compare);
 	} else if (size == 4) {

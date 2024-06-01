@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="static-debug" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G Ninja -DSTATIC_DEBUG=TRUE -DCMAKE_C_FLAGS_DEBUG:STRING=&quot;&quot;" />
+      <configuration PROFILE_NAME="static-release" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G Ninja -DSTATIC_RELEASE=TRUE -DCMAKE_C_FLAGS_RELEASE:STRING=&quot;&quot;" />
+      <configuration PROFILE_NAME="dynamic-debug" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G Ninja -DDYNAMIC_DEBUG=&quot;TRUE&quot; -DCMAKE_C_FLAGS_DEBUG:STRING=&quot;&quot;" />
+      <configuration PROFILE_NAME="dynamic-release" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" GENERATION_OPTIONS="-G Ninja -DDYNAMIC_RELEASE=TRUE -DCMAKE_C_FLAGS_RELEASE:STRING=&quot;&quot;" />
+    </configurations>
+  </component>
+</project>
