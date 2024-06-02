@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Eco_Lab2
+# Project: Eco.Lab1
 # Configurations: Debug
 # =============================================================================
 
@@ -89,42 +89,42 @@ build 1F5DF16EE1BF43B999A434ED38FE8F3A.dll 1F5DF16EE1BF43B999A434ED38FE8F3A.lib:
   TARGET_PDB = 1F5DF16EE1BF43B999A434ED38FE8F3A.pdb
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Eco_Lab2
+# Object build statements for EXECUTABLE target Eco.Lab1
 
 
 #############################################
-# Order-only phony target for Eco_Lab2
+# Order-only phony target for Eco.Lab1
 
-build cmake_object_order_depends_target_Eco_Lab2: phony || cmake_object_order_depends_target_1F5DF16EE1BF43B999A434ED38FE8F3A cmake_object_order_depends_target_3A8E44677E82475CB4A3719ED8397E61 cmake_object_order_depends_target_4828F6552E4540E78121EBD220DC360E cmake_object_order_depends_target_872FEF1DE3314B87AD44D1E7C232C2F0 cmake_object_order_depends_target_AE202E543CE54550899603BD70C62565
+build cmake_object_order_depends_target_Eco.Lab1: phony || cmake_object_order_depends_target_1F5DF16EE1BF43B999A434ED38FE8F3A cmake_object_order_depends_target_3A8E44677E82475CB4A3719ED8397E61 cmake_object_order_depends_target_4828F6552E4540E78121EBD220DC360E cmake_object_order_depends_target_872FEF1DE3314B87AD44D1E7C232C2F0 cmake_object_order_depends_target_AE202E543CE54550899603BD70C62565
 
-build CMakeFiles\Eco_Lab2.dir\UnitTestFiles\SourceFiles\EcoLab1.c.obj: C_COMPILER__Eco_Lab2_unscanned_Debug C$:\EcoLab\Eco.Lab1\UnitTestFiles\SourceFiles\EcoLab1.c || cmake_object_order_depends_target_Eco_Lab2
+build CMakeFiles\Eco.Lab1.dir\UnitTestFiles\SourceFiles\EcoLab1.c.obj: C_COMPILER__Eco.2eLab1_unscanned_Debug C$:\EcoLab\Eco.Lab1\UnitTestFiles\SourceFiles\EcoLab1.c || cmake_object_order_depends_target_Eco.Lab1
   DEFINES = -DECO_DLL -DECO_WIN32 -DECO_WINDOWS -DUGUID_UTILITY -DUNICODE -DWIN32 -D_DEBUG -D_UNICODE -D_WINDLL -D_WINDOWS
   FLAGS = /nologo /W3 /WX- /Oy- /EHsc /GS /fp:precise /Zc:wchar_t /Zc:forScope /Gz /TC /analyze- /errorReport:queue /ZI /Od /Gm /RTC1 /MTd
   INCLUDES = -IC:\EcoLab\Eco.Lab1\HeaderFiles -IC:\EcoLab\Eco.Lab1\SharedFiles -IC:\EcoLab\Eco.Lab1\Eco.CalculatorA\SharedFiles -IC:\EcoLab\Eco.Lab1\Eco.CalculatorB\SharedFiles -IC:\EcoLab\Eco.Lab1\Eco.CalculatorC\SharedFiles -IC:\EcoLab\Eco.Lab1\Eco.CalculatorD\SharedFiles -IC:\EcoLab\Eco.Lab1\Eco.CalculatorE\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.List1\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.Core1\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.InterfaceBus1\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.System1\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.MemoryManager1\SharedFiles -IC:\EcoLab\Eco.Framework\Eco.FileSystemManagement1\SharedFiles
-  OBJECT_DIR = CMakeFiles\Eco_Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Eco_Lab2.dir\UnitTestFiles\SourceFiles
-  TARGET_COMPILE_PDB = CMakeFiles\Eco_Lab2.dir\
-  TARGET_PDB = Eco_Lab2.pdb
+  OBJECT_DIR = CMakeFiles\Eco.Lab1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Eco.Lab1.dir\UnitTestFiles\SourceFiles
+  TARGET_COMPILE_PDB = CMakeFiles\Eco.Lab1.dir\
+  TARGET_PDB = Eco.Lab1.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Eco_Lab2
+# Link build statements for EXECUTABLE target Eco.Lab1
 
 
 #############################################
-# Link the executable Eco_Lab2.exe
+# Link the executable Eco.Lab1.exe
 
-build Eco_Lab2.exe: C_EXECUTABLE_LINKER__Eco_Lab2_Debug CMakeFiles\Eco_Lab2.dir\UnitTestFiles\SourceFiles\EcoLab1.c.obj | 1F5DF16EE1BF43B999A434ED38FE8F3A.lib C$:\EcoLab\Eco.Framework\Eco.InterfaceBus1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000042757331.lib C$:\EcoLab\Eco.Framework\Eco.MemoryManager1\BuildFiles\Windows\x86\StaticRelease\0000000000000000000000004D656D31.lib C$:\EcoLab\Eco.Framework\Eco.FileSystemManagement1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000046534D31.lib C$:\EcoLab\Eco.Framework\Eco.System1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000000000100.lib 4828F6552E4540E78121EBD220DC360E.lib AE202E543CE54550899603BD70C62565.lib 3A8E44677E82475CB4A3719ED8397E61.lib 872FEF1DE3314B87AD44D1E7C232C2F0.lib || 1F5DF16EE1BF43B999A434ED38FE8F3A.dll 3A8E44677E82475CB4A3719ED8397E61.dll 4828F6552E4540E78121EBD220DC360E.dll 872FEF1DE3314B87AD44D1E7C232C2F0.dll AE202E543CE54550899603BD70C62565.dll
+build Eco.Lab1.exe: C_EXECUTABLE_LINKER__Eco.2eLab1_Debug CMakeFiles\Eco.Lab1.dir\UnitTestFiles\SourceFiles\EcoLab1.c.obj | 1F5DF16EE1BF43B999A434ED38FE8F3A.lib C$:\EcoLab\Eco.Framework\Eco.InterfaceBus1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000042757331.lib C$:\EcoLab\Eco.Framework\Eco.MemoryManager1\BuildFiles\Windows\x86\StaticRelease\0000000000000000000000004D656D31.lib C$:\EcoLab\Eco.Framework\Eco.FileSystemManagement1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000046534D31.lib C$:\EcoLab\Eco.Framework\Eco.System1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000000000100.lib 4828F6552E4540E78121EBD220DC360E.lib AE202E543CE54550899603BD70C62565.lib 3A8E44677E82475CB4A3719ED8397E61.lib 872FEF1DE3314B87AD44D1E7C232C2F0.lib || 1F5DF16EE1BF43B999A434ED38FE8F3A.dll 3A8E44677E82475CB4A3719ED8397E61.dll 4828F6552E4540E78121EBD220DC360E.dll 872FEF1DE3314B87AD44D1E7C232C2F0.dll AE202E543CE54550899603BD70C62565.dll
   FLAGS = /nologo /W3 /WX- /Oy- /EHsc /GS /fp:precise /Zc:wchar_t /Zc:forScope /Gz /TC /analyze- /errorReport:queue /ZI /Od /Gm /RTC1 /MTd
   LINK_FLAGS = /NOLOGO /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /ERRORREPORT:QUEUE /SUBSYSTEM:CONSOLE /INCREMENTAL:NO /DEBUG /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = 1F5DF16EE1BF43B999A434ED38FE8F3A.lib  C:\EcoLab\Eco.Framework\Eco.InterfaceBus1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000042757331.lib  C:\EcoLab\Eco.Framework\Eco.MemoryManager1\BuildFiles\Windows\x86\StaticRelease\0000000000000000000000004D656D31.lib  C:\EcoLab\Eco.Framework\Eco.FileSystemManagement1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000046534D31.lib  C:\EcoLab\Eco.Framework\Eco.System1\BuildFiles\Windows\x86\StaticRelease\00000000000000000000000000000100.lib  4828F6552E4540E78121EBD220DC360E.lib  AE202E543CE54550899603BD70C62565.lib  3A8E44677E82475CB4A3719ED8397E61.lib  872FEF1DE3314B87AD44D1E7C232C2F0.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  OBJECT_DIR = CMakeFiles\Eco_Lab2.dir
+  OBJECT_DIR = CMakeFiles\Eco.Lab1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Eco_Lab2.dir\
-  TARGET_FILE = Eco_Lab2.exe
-  TARGET_IMPLIB = Eco_Lab2.lib
-  TARGET_PDB = Eco_Lab2.pdb
+  TARGET_COMPILE_PDB = CMakeFiles\Eco.Lab1.dir\
+  TARGET_FILE = Eco.Lab1.exe
+  TARGET_IMPLIB = Eco.Lab1.lib
+  TARGET_PDB = Eco.Lab1.pdb
 
 
 #############################################
@@ -466,7 +466,7 @@ build 872FEF1DE3314B87AD44D1E7C232C2F0: phony 872FEF1DE3314B87AD44D1E7C232C2F0.d
 
 build AE202E543CE54550899603BD70C62565: phony AE202E543CE54550899603BD70C62565.dll
 
-build Eco_Lab2: phony Eco_Lab2.exe
+build Eco.Lab1: phony Eco.Lab1.exe
 
 # =============================================================================
 # Folder targets.
@@ -476,7 +476,7 @@ build Eco_Lab2: phony Eco_Lab2.exe
 #############################################
 # Folder: C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug
 
-build all: phony 1F5DF16EE1BF43B999A434ED38FE8F3A.dll Eco_Lab2.exe Eco.CalculatorC\all Eco.CalculatorB\all Eco.CalculatorD\all Eco.CalculatorE\all
+build all: phony 1F5DF16EE1BF43B999A434ED38FE8F3A.dll Eco.Lab1.exe Eco.CalculatorC\all Eco.CalculatorB\all Eco.CalculatorD\all Eco.CalculatorE\all
 
 # =============================================================================
 

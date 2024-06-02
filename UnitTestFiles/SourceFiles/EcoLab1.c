@@ -24,6 +24,8 @@
 #include "IdEcoInterfaceBus1.h"
 #include "IdEcoFileSystemManagement1.h"
 #include "IdEcoLab1.h"
+#include "IEcoCalculatorX.h"
+#include "IEcoCalculatorY.h"
 
 
 int _cdecl IntCompare(const void* _a, const void* _b) {
@@ -189,7 +191,7 @@ void CharTest(IEcoLab1 *pIEcoLab1, IEcoMemoryAllocator1 *pIMem, int n){
 	char* array_ms = (char *)pIMem->pVTbl->Alloc(pIMem, n * sizeof(char));
 	char* array_qs = (char *)pIMem->pVTbl->Alloc(pIMem, n * sizeof(char));
 
-	const char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/.,?><\1234567890-=_+!@#$%^&()`~";
+	const char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/.,?><1234567890-=_+!@#$%^&()`~";
 	srand((unsigned int)time(NULL));
     for (i = 0; i < n; i++){
 		int key = rand() % (int) (sizeof charset - 1);
@@ -210,6 +212,27 @@ void CharTest(IEcoLab1 *pIEcoLab1, IEcoMemoryAllocator1 *pIMem, int n){
 
 	pIMem->pVTbl->Free(pIMem, array_ms);
 	pIMem->pVTbl->Free(pIMem, array_qs);
+}
+
+
+
+// Lab2
+
+void TestComponents(IEcoLab1 *pIEcoLab1){
+
+    IEcoCalculatorX* pIX = 0;
+    IEcoCalculatorY* pIY = 0;
+    int16_t a = 10000;
+    int16_t b = 200;
+
+    pIEcoLab1->pVTbl->QueryInterface(pIEcoLab1, &IID_IEcoCalculatorX, &pIX);
+    pIEcoLab1->pVTbl->QueryInterface(pIEcoLab1, &IID_IEcoCalculatorY, &pIY);
+
+    printf("Addition: %d\n", pIX->pVTbl->Addition(pIX, a, b));
+    printf("Subtraction: %d\n", pIX->pVTbl->Subtraction(pIX, a, b));
+    printf("Multiplication: %d\n", pIY->pVTbl->Multiplication(pIY, a, b));
+    printf("Division: %d\n", pIY->pVTbl->Division(pIY, a, b));
+
 }
 
 /*
@@ -235,6 +258,8 @@ int16_t EcoMain(IEcoUnknown* pIUnk) {
     char_t* copyName = 0;
     /* Указатель на тестируемый интерфейс */
     IEcoLab1* pIEcoLab1 = 0;
+    /* lab2 */
+
 
     /* Проверка и создание системного интрефейса */
     if (pISys == 0) {
@@ -279,19 +304,22 @@ int16_t EcoMain(IEcoUnknown* pIUnk) {
         /* Освобождение интерфейсов в случае ошибки */
         goto Release;
     }
-	printf("n: 100\n");
-	DoubleTest(pIEcoLab1, pIMem, 100);
-	printf("n: 1000\n");
-	DoubleTest(pIEcoLab1, pIMem, 1000);
-	printf("n: 10000\n");
-	DoubleTest(pIEcoLab1, pIMem, 10000);
-	printf("n: 100000\n");
-	DoubleTest(pIEcoLab1, pIMem, 100000);
-	printf("n: 1000000\n");
-	DoubleTest(pIEcoLab1, pIMem, 1000000);
-	printf("n: 10000000\n");
-	DoubleTest(pIEcoLab1, pIMem, 10000000);
-	printf("\n");
+
+//	printf("n: 100\n");
+//	DoubleTest(pIEcoLab1, pIMem, 100);
+//	printf("n: 1000\n");
+//	DoubleTest(pIEcoLab1, pIMem, 1000);
+//	printf("n: 10000\n");
+//	DoubleTest(pIEcoLab1, pIMem, 10000);
+//	printf("n: 100000\n");
+//	DoubleTest(pIEcoLab1, pIMem, 100000);
+//	printf("n: 1000000\n");
+//	DoubleTest(pIEcoLab1, pIMem, 1000000);
+//	printf("n: 10000000\n");
+//	DoubleTest(pIEcoLab1, pIMem, 10000000);
+//	printf("\n");
+
+    TestComponents(pIEcoLab1);
 
 Release:
 

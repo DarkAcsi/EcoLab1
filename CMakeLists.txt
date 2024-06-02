@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.27)
-project(Eco_Lab2 C)
+project(Eco.Lab1 C)
 
 set(CMAKE_C_STANDARD 90)
 
@@ -108,7 +108,7 @@ target_sources(
 )
 
 add_executable(
-        Eco_Lab2
+        Eco.Lab1
         UnitTestFiles/SourceFiles/EcoLab1.c
         SharedFiles/IdEcoLab1.h
         SharedFiles/IEcoLab1.h
@@ -116,9 +116,9 @@ add_executable(
         HeaderFiles/CEcoLab1Factory.h
 )
 
-target_link_libraries(Eco_Lab2 ${CID})
+target_link_libraries(Eco.Lab1 ${CID})
 target_link_libraries(
-        Eco_Lab2
+        Eco.Lab1
         $ENV{ECO_FRAMEWORK}/Eco.InterfaceBus1/BuildFiles/Windows/x86/StaticRelease/00000000000000000000000042757331.lib
         $ENV{ECO_FRAMEWORK}/Eco.MemoryManager1/BuildFiles/Windows/x86/StaticRelease/0000000000000000000000004D656D31.lib
         $ENV{ECO_FRAMEWORK}/Eco.FileSystemManagement1/BuildFiles/Windows/x86/StaticRelease/00000000000000000000000046534D31.lib
@@ -127,13 +127,13 @@ target_link_libraries(
 
 #add_subdirectory(Eco.CalculatorA)
 add_subdirectory(Eco.CalculatorC)
-target_link_libraries(Eco_Lab2 4828F6552E4540E78121EBD220DC360E)
+target_link_libraries(Eco.Lab1 4828F6552E4540E78121EBD220DC360E)
 
 add_subdirectory(Eco.CalculatorB)
-target_link_libraries(Eco_Lab2 AE202E543CE54550899603BD70C62565)
+target_link_libraries(Eco.Lab1 AE202E543CE54550899603BD70C62565)
 
 add_subdirectory(Eco.CalculatorD)
-target_link_libraries(Eco_Lab2 3A8E44677E82475CB4A3719ED8397E61)
+target_link_libraries(Eco.Lab1 3A8E44677E82475CB4A3719ED8397E61)
 
 add_subdirectory(Eco.CalculatorE)
-target_link_libraries(Eco_Lab2 872FEF1DE3314B87AD44D1E7C232C2F0)
+target_link_libraries(Eco.Lab1 872FEF1DE3314B87AD44D1E7C232C2F0)

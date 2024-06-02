@@ -1,5 +1,5 @@
 C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir
-C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/CMakeFiles/Eco_Lab2.dir
+C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/CMakeFiles/Eco.Lab1.dir
 C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/CMakeFiles/edit_cache.dir
 C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/CMakeFiles/rebuild_cache.dir
 C:/EcoLab/Eco.Lab1/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir

@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -DSTATIC_DEBUG=TRUE -DCMAKE_C_FLAGS_DEBUG:STRING= -DPython_EXECUTABLE=C:/EcoLab/Eco.Lab1/venv/Scripts/python.exe -DPython3_EXECUTABLE=C:/EcoLab/Eco.Lab1/venv/Scripts/python.exe -S C:\EcoLab\Eco.Lab1 -B C:\EcoLab\Eco.Lab1\cmake-build-static-debug
+"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.4/bin/ninja/win/x64/ninja.exe" -DSTATIC_DEBUG=TRUE -DCMAKE_C_FLAGS_DEBUG:STRING= -G Ninja -DPython_EXECUTABLE=C:/EcoLab/Eco.Lab1/venv/Scripts/python.exe -DPython3_EXECUTABLE=C:/EcoLab/Eco.Lab1/venv/Scripts/python.exe -S C:\EcoLab\Eco.Lab1 -B C:\EcoLab\Eco.Lab1\cmake-build-static-debug
 -- Configuring done (0.1s)
--- Generating done (0.1s)
+-- Generating done (0.0s)
 -- Build files have been written to: C:/EcoLab/Eco.Lab1/cmake-build-static-debug

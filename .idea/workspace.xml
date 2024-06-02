@@ -11,20 +11,87 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Eco_Lab2" targetName="1F5DF16EE1BF43B999A434ED38FE8F3A" />
-      <config projectName="Eco_Lab2" targetName="3A8E44677E82475CB4A3719ED8397E61" />
-      <config projectName="Eco_Lab2" targetName="Eco_Lab2" />
-      <config projectName="Eco_Lab2" targetName="AE202E543CE54550899603BD70C62565" />
-      <config projectName="Eco_Lab2" targetName="872FEF1DE3314B87AD44D1E7C232C2F0" />
-      <config projectName="Eco_Lab2" targetName="4828F6552E4540E78121EBD220DC360E" />
+      <config projectName="Eco.Lab1" targetName="1F5DF16EE1BF43B999A434ED38FE8F3A" />
+      <config projectName="Eco.Lab1" targetName="4828F6552E4540E78121EBD220DC360E" />
+      <config projectName="Eco.Lab1" targetName="Eco.Lab1" />
+      <config projectName="Eco.Lab1" targetName="Eco_Lab2" />
+      <config projectName="Eco.Lab1" targetName="AE202E543CE54550899603BD70C62565" />
+      <config projectName="Eco.Lab1" targetName="872FEF1DE3314B87AD44D1E7C232C2F0" />
+      <config projectName="Eco.Lab1" targetName="3A8E44677E82475CB4A3719ED8397E61" />
     </generated>
   </component>
   <component name="CMakeSettings">
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df548193-8aa4-4262-959e-05e6fc99b594" name="Changes" comment="">
+    <list default="true" id="df548193-8aa4-4262-959e-05e6fc99b594" name="Changes" comment="Start">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cmake.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cmake.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderFiles/CEcoLab1.h" beforeDir="false" afterPath="$PROJECT_DIR$/HeaderFiles/CEcoLab1.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SourceFiles/CEcoLab1.c" beforeDir="false" afterPath="$PROJECT_DIR$/SourceFiles/CEcoLab1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestFiles/SourceFiles/EcoLab1.c" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestFiles/SourceFiles/EcoLab1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.cmake/api/v1/reply/cache-v2-6c4fded86f738d37d58d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.cmake/api/v1/reply/codemodel-v2-ffc9fa8d37addbb9bd75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.cmake/api/v1/reply/index-2024-05-07T00-55-36-0760.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.cmake/api/v1/reply/target-Eco_Lab2-Debug-52cbc81de001f9bf9b5f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/SourceFiles/CEcoLab1.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/SourceFiles/CEcoLab1.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/SourceFiles/CEcoLab1Factory.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/SourceFiles/CEcoLab1Factory.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/vc140.idb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/vc140.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/1F5DF16EE1BF43B999A434ED38FE8F3A.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/Eco_Lab2.dir/UnitTestFiles/SourceFiles/EcoLab1.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/Eco_Lab2.dir/vc140.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/Eco_Lab2.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/clion-dynamic-debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/clion-dynamic-debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorB/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorB/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/SourceFiles/CEcoCalculatorC.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/SourceFiles/CEcoCalculatorC.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/SourceFiles/CEcoCalculatorCFactory.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/SourceFiles/CEcoCalculatorCFactory.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/vc140.idb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/vc140.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/CMakeFiles/4828F6552E4540E78121EBD220DC360E.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorC/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorD/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorD/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorE/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Eco.CalculatorE/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/.cmake/api/v1/reply/cache-v2-23b13ac50caa0ab9e137.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/.cmake/api/v1/reply/codemodel-v2-cef6f998e17a7251e7de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/.cmake/api/v1/reply/index-2024-05-07T00-55-36-0725.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/.cmake/api/v1/reply/target-Eco_Lab2-Release-0a76c533051804896745.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/clion-dynamic-release-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/clion-dynamic-release-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-dynamic-release/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-dynamic-release/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/.cmake/api/v1/reply/cache-v2-1db9baf73b65b0381bb6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/.cmake/api/v1/reply/codemodel-v2-fdb9c72f3a843306c303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/.cmake/api/v1/reply/index-2024-05-07T00-55-36-0133.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/.cmake/api/v1/reply/target-Eco_Lab2-Debug-df74aa82935b25310373.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/clion-static-debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/clion-static-debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/.cmake/api/v1/reply/cache-v2-057da7dca68300e7aba5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/.cmake/api/v1/reply/codemodel-v2-56a04ead11498d97a489.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/.cmake/api/v1/reply/index-2024-05-07T00-55-36-0649.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/.cmake/api/v1/reply/target-Eco_Lab2-Release-7d8a1adaf541e648009f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/clion-static-release-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/clion-static-release-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-static-release/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-static-release/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +116,12 @@
     &quot;assignee&quot;: &quot;DarkAcsi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DarkAcsi/EcoLab1.git",
-    "accountId": "15baa84a-5612-44a9-ba4b-4e391df01ce2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DarkAcsi/EcoLab1.git&quot;,
+    &quot;accountId&quot;: &quot;15baa84a-5612-44a9-ba4b-4e391df01ce2&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,8 +140,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.Eco.Lab1.executor": "Debug",
+    "CMake Application.EcoLab.executor": "Debug",
     "CMake Application.Eco_Lab2.executor": "Run",
-    "Python.Flag trimmer.executor": "Run",
+    "Python.Flag trimmer.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -84,48 +153,54 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/EcoLab/Eco.Lab1/Flags_trimmer.py",
+    "last_opened_file_path": "C:/EcoLab/Eco.Lab1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "CPPToolchains",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="CMake Application.Eco_Lab2">
-    <configuration name="1F5DF16EE1BF43B999A434ED38FE8F3A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="1F5DF16EE1BF43B999A434ED38FE8F3A" CONFIG_NAME="static-debug">
+  <component name="RunManager" selected="CMake Application.Eco.Lab1">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1F5DF16EE1BF43B999A434ED38FE8F3A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="1F5DF16EE1BF43B999A434ED38FE8F3A" CONFIG_NAME="static-release">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="3A8E44677E82475CB4A3719ED8397E61" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="3A8E44677E82475CB4A3719ED8397E61" CONFIG_NAME="static-debug">
+    <configuration name="3A8E44677E82475CB4A3719ED8397E61" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="3A8E44677E82475CB4A3719ED8397E61" CONFIG_NAME="static-release">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="4828F6552E4540E78121EBD220DC360E" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="4828F6552E4540E78121EBD220DC360E" CONFIG_NAME="static-debug">
+    <configuration name="4828F6552E4540E78121EBD220DC360E" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="4828F6552E4540E78121EBD220DC360E" CONFIG_NAME="static-release">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="872FEF1DE3314B87AD44D1E7C232C2F0" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="872FEF1DE3314B87AD44D1E7C232C2F0" CONFIG_NAME="static-debug">
+    <configuration name="872FEF1DE3314B87AD44D1E7C232C2F0" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="872FEF1DE3314B87AD44D1E7C232C2F0" CONFIG_NAME="static-release">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AE202E543CE54550899603BD70C62565" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="AE202E543CE54550899603BD70C62565" CONFIG_NAME="static-debug">
+    <configuration name="AE202E543CE54550899603BD70C62565" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="AE202E543CE54550899603BD70C62565" CONFIG_NAME="static-release">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="EcoLab" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="static-debug" RUN_PATH="$PROJECT_DIR$/AssemblyFiles/Windows/VisualStudio_10/Eco.Lab1.sln" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Flag trimmer" run_configuration_type="PythonConfigurationType" />
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eco_Lab2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco_Lab2" TARGET_NAME="Eco_Lab2" CONFIG_NAME="static-debug" RUN_TARGET_PROJECT_NAME="Eco_Lab2" RUN_TARGET_NAME="Eco_Lab2">
+    <configuration name="Eco.Lab1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eco.Lab1" TARGET_NAME="Eco.Lab1" CONFIG_NAME="static-debug" RUN_TARGET_PROJECT_NAME="Eco.Lab1" RUN_TARGET_NAME="Eco.Lab1">
       <method v="2">
         <option name="RunConfigurationTask" enabled="true" run_configuration_name="Flag trimmer" run_configuration_type="PythonConfigurationType" />
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -157,7 +232,7 @@
     <list>
       <item itemvalue="CMake Application.EcoLab" />
       <item itemvalue="CMake Application.1F5DF16EE1BF43B999A434ED38FE8F3A" />
-      <item itemvalue="CMake Application.Eco_Lab2" />
+      <item itemvalue="CMake Application.Eco.Lab1" />
       <item itemvalue="CMake Application.AE202E543CE54550899603BD70C62565" />
       <item itemvalue="CMake Application.4828F6552E4540E78121EBD220DC360E" />
       <item itemvalue="CMake Application.3A8E44677E82475CB4A3719ED8397E61" />
@@ -183,7 +258,10 @@
       <workItem from="1715035506867" duration="3213000" />
       <workItem from="1715039765940" duration="1058000" />
       <workItem from="1715042937898" duration="364000" />
-      <workItem from="1717283838853" duration="1672000" />
+      <workItem from="1717283838853" duration="6498000" />
+      <workItem from="1717323054731" duration="76000" />
+      <workItem from="1717328436749" duration="2634000" />
+      <workItem from="1717332759474" duration="22301000" />
     </task>
     <task id="LOCAL-00001" summary="Commit1">
       <option name="closed" value="true" />
@@ -193,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715036012508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Start">
+      <option name="closed" value="true" />
+      <created>1717285870967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717285870967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +301,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lab2" />
+                        <option value="origin/lab2" />
                       </list>
                     </value>
                   </entry>
@@ -230,6 +316,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Save" />
     <MESSAGE value="Commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
   </component>
 </project>
